@@ -59,5 +59,5 @@
   * `git pull <远程主机名> <远程分支名>:<本地分支名>`  
   * `git clone ttps://github.com/amieeee/git.git`
 - 问题: The following untracked working tree files would be overwrit ten by merge怎么解决
-  解决：git clean -d -fx
-  
+  * 解决：git clean -d -fx
+- 尝试 .gitignore 文件
