@@ -60,4 +60,5 @@ typings/
 # next.js build output
 .next
 
-.md 
+# 自己尝试的 忽略 .md 文件
+*.md
