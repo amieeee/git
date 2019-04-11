@@ -60,5 +60,6 @@ typings/
 # next.js build output
 .next
 
-# 自己尝试的忽略所有 .md 文件 得先删除本地缓存 git rm -r --cached .
+# 自己尝试的忽略所有 .md 文件 得先删除本地缓存
+# git rm -r --cached .
 README.md
