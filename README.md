@@ -51,9 +51,9 @@
     * 第三步 `git add 文件名`
     * 第四步 `git commit -m "日志信息"`
       注意 此时 commit 一定不能带具体的文件名
-- 10. 远程登录 新建别名  
+- 10. 远程登录 新建别名  origin 代表我的地址
   `git remote add origin https://github.com/amieeee/git.git`
   `git remote -v`
-- 11. 推送
-  `git push origin master(分支名)`
-  git pull <远程主机名> <远程分支名>:<本地分支名>
+- 11. 推送到GitHub 下载到本体
+  `git push origin master(上传到的分支名):我的分支`
+  `git pull <远程主机名> <远程分支名>:<本地分支名>`  
