@@ -60,4 +60,4 @@
   * `git clone ttps://github.com/amieeee/git.git`
 - 问题: The following untracked working tree files would be overwrit ten by merge怎么解决
   * 解决：git clean -d -fx
-- 再次尝试
+- 再一次尝试

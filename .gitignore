@@ -61,4 +61,4 @@ typings/
 .next
 
 # 自己尝试的忽略所有 .md 文件
-*.md
+README.md
